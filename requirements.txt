@@ -1,0 +1,2 @@
+-r requirements/requirements.pybadge.txt
+-r requirements/requirements.pycharm.txt
